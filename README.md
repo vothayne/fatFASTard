@@ -1,0 +1,4 @@
+fatFASTard
+==========
+
+SOLR &amp; Sinatra
