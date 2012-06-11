@@ -1,4 +1,0 @@
-fatFASTard
-==========
-
-SOLR &amp; Sinatra
